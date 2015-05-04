@@ -1,0 +1,23 @@
+.first
+{
+	padding-top:50px;
+}
+
+.btn-default
+{
+	min-width:40px;
+	max-width:80px;
+	height:40px;
+	padding:5px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+
+.test-borders
+{
+	border:1px solid black;
+}
+
+.fa:hover
+{
+	text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+}
