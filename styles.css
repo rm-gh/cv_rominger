@@ -6,9 +6,16 @@ body
 	background-size:cover;
 }
 
+#caracteristiques
+{
+	position:absolute;
+	top:48px;
+	width:100%;
+}
+
 .first
 {
-	padding-top:80px;
+	padding-top:100px;
 }
 .pic
 {
@@ -19,25 +26,6 @@ body
 {
 	width:20px;
 }
-
-#caracteristiques button
-{
-	transition:all 1s ease-in-out;
-
-	width:10px;
-/*	height:30px;*/
-	overflow:hidden;
-}
-
-#caracteristiques button:hover
-{
-	transition:all 1s ease-in-out;
-
-	width:auto;
-	overflow:auto;
-}
-
-
 
 .panel-title
 {
