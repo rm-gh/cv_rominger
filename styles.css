@@ -6,6 +6,38 @@ body
 	background-size:cover;
 }
 
+#language
+{
+	position:fixed;
+	top:12px;
+	right:80px;
+	z-index:4000;
+}
+
+#language .btn-default
+{
+	width:32px;
+	height:26px;
+	padding:0px;
+	margin:0px;
+}
+#french
+{
+	background:url("france_flag_bg.png") no-repeat center center;
+}
+#french:hover
+{
+	background:url("france_flag.png") no-repeat center center;
+}
+#english
+{
+	background:url("united_states_flag_bg.png") no-repeat center center;
+}
+#english:hover
+{
+	background:url("united_states_flag.png") no-repeat center center;
+}
+
 #caracteristiques
 {
 	position:fixed;
